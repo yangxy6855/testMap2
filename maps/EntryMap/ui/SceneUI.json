@@ -1,0 +1,28 @@
+{
+    "adapt_mode": 2, 
+    "anim_data": {}, 
+    "children": [
+        {
+            "children": [], 
+            "event_list": [], 
+            "name": "layout_1", 
+            "pos": {
+                "__tuple__": true, 
+                "items": [
+                    960.0, 
+                    540.0
+                ]
+            }, 
+            "prefab_sub_key": null, 
+            "type": 7, 
+            "uid": "ebf77af9-0d41-4233-ad0e-3372b25d82ae"
+        }
+    ], 
+    "name": "SceneUI", 
+    "opacity": 1.0, 
+    "type": 2, 
+    "ui_anims": [], 
+    "uid": "79d06d00-636f-4093-b6c6-fda25984bfe2", 
+    "visible": true, 
+    "zorder": 400
+}

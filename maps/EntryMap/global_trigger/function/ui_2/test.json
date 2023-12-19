@@ -1,0 +1,19 @@
+{
+    "action": [], 
+    "call_enabled": true, 
+    "condition": [], 
+    "enabled": true, 
+    "event": [], 
+    "func_category": "t_function", 
+    "func_comment": "", 
+    "func_des": "\u51fd\u6570\u63cf\u8ff0", 
+    "func_id": "c92fb2ae9e5111eeb04aa483e76e8467", 
+    "func_name": "test", 
+    "group_id": "KF0OsLKSEe2XPAD-+E6xse", 
+    "is_func": true, 
+    "is_official_func": false, 
+    "p_trigger_id": null, 
+    "trigger_id": 666984505, 
+    "trigger_name": "test", 
+    "valid": true
+}
